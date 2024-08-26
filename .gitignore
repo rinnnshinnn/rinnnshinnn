@@ -1,0 +1,22 @@
+# Ignore node_modules if you have any npm packages or scripts
+node_modules/
+
+# Ignore build outputs or compiled files
+dist/
+build/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore any environment or secret files
+.env
+.env.local
+.env.*.local
+
+# Ignore image cache
+.cache/
