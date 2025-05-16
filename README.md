@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marc Gabriel L. Alvarez
+# Hi there! 👋 
 
 Welcome to my GitHub profile! I'm a Computer Science student with a strong foundation in C++ and a passion for exploring Python. I’m currently working my way through The Odin Project's curriculum, sharpening my skills in full-stack development.
 
@@ -33,8 +33,6 @@ Welcome to my GitHub profile! I'm a Computer Science student with a strong found
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Marc (Gab) Alvarez](https://www.linkedin.com/in/marc-alvarez-979243223/)
-- **Facebook:** [Marc Gabriel Alvarez (Gab)](https://www.facebook.com/cram.zeravla)
 - **Email:** [cramzeravla@gmail.com](mailto:cramzeravla@gmail.com)
 
 ## 🎨 Fun Section
